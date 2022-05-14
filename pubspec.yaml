@@ -1,8 +1,8 @@
-name: swagger
-version: 1.0.0
-description: Swagger API client
+name: TerraVital_Api
+version: 1.0.1
+description: TerraVital_Api using Swagger API client
 environment:
-  sdk: ">=2.11.0 <3.0.0"
+  sdk: ">=2.16.2 <3.0.0"
 dependencies:
   http: '^0.13.4'
 dev_dependencies:
