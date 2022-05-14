@@ -1,5 +1,5 @@
 name: TerraVital_Api
-version: 1.0.1
+version: 1.0.2
 description: TerraVital_Api using Swagger API client
 environment:
   sdk: ">=2.16.2 <3.0.0"
